@@ -1,4 +1,4 @@
-print "ciao"
+print "ciao ciao"
 
 def somma(a,b):
     return a+b
